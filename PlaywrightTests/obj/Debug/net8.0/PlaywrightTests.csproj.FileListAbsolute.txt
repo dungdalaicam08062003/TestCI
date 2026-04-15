@@ -571,3 +571,4 @@ D:\INTERN_testerFptSoftWare\Playwright\PlaywrightTests\obj\Debug\net8.0\refint\P
 D:\INTERN_testerFptSoftWare\Playwright\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.pdb
 D:\INTERN_testerFptSoftWare\Playwright\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.genruntimeconfig.cache
 D:\INTERN_testerFptSoftWare\Playwright\PlaywrightTests\obj\Debug\net8.0\ref\PlaywrightTests.dll
+D:\INTERN_testerFptSoftWare\Playwright\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.sourcelink.json
