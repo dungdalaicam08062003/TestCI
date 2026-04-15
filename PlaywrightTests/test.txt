@@ -1,0 +1,16 @@
+1 Headless
+dotnet test
+
+2 headed Mode có UI cơ chế chạy tự động(không dùng được)
+(cái này nó áp dụng trong biến môi trường nodejs nên .net không áp dụng được)
+$env:PLAYWRIGHT_HEADLESS="false"
+dotnet test
+
+
+3 Debug mode PWDEBUG(có UI nhưng dừng)
+$env:PWDEBUG = "1"
+dotnet test
+
+4 Codegen
+hiểu đơn giản nó là 1 cái tool đề xuất code khi ta thực hiện action
+powershell bin/Debug/net8.0/playwright.ps1 codegen https://dungdalaicam08062003.github.io/FrontTestNech/HomePage/homepage.html
